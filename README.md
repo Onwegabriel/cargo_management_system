@@ -3,3 +3,6 @@ cms is a complete logistics web application
 where registered users can book for their parcel
 online and also get a code to be able
 to live track their parcel
+FEATURES
+Book goods or parcel online
+get a live tracking code
